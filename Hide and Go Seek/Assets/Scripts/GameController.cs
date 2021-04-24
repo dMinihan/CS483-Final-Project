@@ -11,7 +11,9 @@ public class GameController : MonoBehaviour
     // Variables to track and display how much time is left in the game. 
     public GameObject timerObject; 
     Text timerText; 
+
     int timerSeconds = 300; 
+
 
     // The navigation map that is used to spawn in enemies and power-ups  
     public NavMeshSurface surface; 
