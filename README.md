@@ -5,9 +5,11 @@
 
 I. Controls and Gameplay
       
-       1. The player is controlled using the awsd keys, and mouse. They can also jump with the space bar and sprint for a short time with the left shift key. 
+       1. The player is controlled using the awsd keys, and mouse. 
+       They can also jump with the space bar and sprint for a short time with the left shift key. 
        
-       2. Each game lasts 5 minutes, to win the game the player must avoid coming in contact with the enemy agents (black spheres with red lights). The player can          get power ups by jumping into and colliding with the power up spheres. 
+       2. Each game lasts 5 minutes, to win the game the player must avoid coming in contact with the enemy agents (black spheres with red lights). 
+       The player can get power ups by jumping into and colliding with the power up spheres. 
 
        3. Three power ups spawn in the game in the form of floating spheres. The blue sphere increases the player's speed, the green sphere increases the player's          jump height, and the purple sphere makes the player invisible to the agents. Each power up lasts for 10 seconds. Players can have multiple powers ups                activated at one time as long as they are not the same power. Power ups can be tricking to trigger collisions with so be careful trying to gain one while            being chased by the agents. 
 
