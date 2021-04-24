@@ -25,4 +25,11 @@ Known Issues:
  1. On rare occasions the player phases through the floor at the start of the game. The "start game" button is enabled if they do. This can be used to restart        the game. 
 
 2. The navigation mesh that the enemies and power ups are spawned on sometimes misinterprets the space on top of and between the wider walls. It maps them as       navigatable space for the mesh leading some agents and power ups to be spawned on top of or between a wall.  
-       
+
+
+
+Sources: 
+
+1. For the agents I used the UnityEngine.AI, UnityEditor.AI classes along with components downloaded from Unity-Technologies/NavMeshComponents GitHub repo. I used various forums to help me understand how to work with NavMesh componenets. https://www.youtube.com/watch?v=FkLJ45Pt-mY the video at this link was of particular help to understand how to dynamically bake the NavMesh Surface. 
+
+2. For movement I combined custom code with code from the following tutorials: https://www.youtube.com/watch?v=e5g1nJcjz-M and https://www.reddit.com/r/Unity3D/comments/1j5i9x/i_made_a_tutorial_on_how_to_implement_a_stamina/. 
